@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Ewa Pysiewicz - Premium Business Consulting",
+  "description": "High-end website for Ewa Pysiewicz, private business advisor specializing in bridging strategy, marketing, customer insights, and data-driven decision making.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
