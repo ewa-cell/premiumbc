@@ -300,7 +300,7 @@ export const CLIENT_FIT_CONTENT = {
     {
       id: "revenue",
       textEn: "Already generate stable revenue & validation",
-      textPl: "Generują stabilne przychody i walidację rynkową",
+      textPl: "Generują stabilne przychody, potrzebują weryfikacji i struktury dla najbardziej efektywnych",
       strategicExplanationEn: "You have verified your market-fit. Our job is not survival, but structuring systems to scale profitability and predictability.",
       strategicExplanationPl: "Masz już produkt i płacących klientów. Naszym zadaniem nie jest walka o przetrwanie, lecz budowa systemu zyskownego wzrostu."
     },
@@ -611,9 +611,9 @@ By aligning your customer insight loops directly with your marketing and pricing
 Klienci premium rzadko kupują np. usłygi doradcze ze względu na rozbudowane slajdy. Kupują, ponieważ odczuwają lęk przed utratą pozycji lidera rynku przez konkurenta, albo potrzebują autorytetu trzeciej strony, aby uwiarygodnić zmiany strukturalne przed radą nadzorczą.
 
 Jak zlikwidować tę rozbieżność:
-1. **Odrzuć standardowe ankiety**: Ilościowe ankiety z ocenami dają ładne, ale bezużyteczne średnie. Przeprowadź pogłębione wywiady jakościowe skupione na okresie bezpośrednio przed podjęciem decyzji o współpracy.
-2. **Zidentyfikuj moment zwrotny**: Co wydarzyło się dokładnie w dniu, w którym klient uznał, że musi zadzwonić? Ten moment to rzeczywisty katalizator Twojej wartości na rynku.
-3. **Połącz marżę z profilem klienta**: Zestaw typy klientów z rzeczywistym kosztem ich obsługi. Często najcichsi i najbardziej lojalni klienci dają najwyższy zysk, podczas gdy ci głośni konsumują całą marżę.
+1. **Bądź bliżej klienta. Rozmawiaj z nim. Przeprowadź pogłębione wywiady jakościowe skupione na okresie bezpośrednio przed podjęciem decyzji o współpracy.
+2. **Zidentyfikuj moment zwrotny**: 
+3. **Połącz marżę z profilem klienta**: Zestaw typy klientów z rzeczywistym kosztem ich obsługi. Często najcichsi i najbardziej lojalni klienci dają najwyższy zysk, podczas gdy ci głośni konsumują całą marżę. 
 
 Dopasowując wiedzę o potrzebach klientów bezpośrednio do marketingu i cen, budujesz trwały autorytet i eliminujesz trudne relacje, zanim jeszcze powstaną.`
   },
@@ -643,7 +643,7 @@ Tymczasem większość właścicieli firm tkwi we własnej pułapce. Biznes funk
 
 Jak wyjść z tej pułapki i zbudować samodzielne aktywo:
 1. **Sproduktuj proces dostarczania wartości**: Zamień swoje indywidualne usługi w ustrukturyzowaną metodologię krok po kroku. Gdy dostarczanie wartości przebiega według jasnego schematu, klienci zyskują poczucie bezpieczeństwa z zespołem menedżerskim.
-2. **Oprzyj markę na autorskim modelu**: Przenieś ciężar komunikacji z własnej charyzmy na firmowy schemat działania. Przestań sprzedawać siebie – zacznij pozycjonować unikalną metodę wzrostu (system map).
+2. **Oprzyj markę na autorskim modelu**: Przenieś ciężar komunikacji z własnej charyzmy na firmowy schemat działania. 
 3. **Stwórz scenariusze decyzyjne**: Zbierz jasne kryteria, które pozwalają zespołowi samodzielnie rozstrzygać wątpliwości czy reklamacje. Gdy pojawia się problem, nie rozwiązuj go sam. Popraw procedurę i pozwól zespołowi działać.
 
 Przejście od firmy opartej na osobie do systemowej struktury uwalnia Twój czas, chroni marże i drastycznie podnosi wartość rynkową Twojego przedsiębiorstwa.`
@@ -657,5 +657,5 @@ export const CONTACT_INFO = {
   phoneFormatted: "+48 608 370 742",
   email: "e.pysiewicz@premiumbc.pl",
   linkedin: "https://www.linkedin.com/in/ewa-pysiewicz/",
-  city: "Warsaw, Poland"
+  city: "Wrocław, Poland"
 };
