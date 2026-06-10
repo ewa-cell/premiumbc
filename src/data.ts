@@ -467,9 +467,7 @@ export const ABOUT_CONTENT = {
   paragraphsPl: [
     "Projektuję marketingowe strategie wzrostu - układam procesy sprzedaży tak, aby marketing przestał być kosztem, a stał się przewidywalną inwestycją zwiększającą zyski.
 Mierzę i optymalizuję rentowność - audytuję inwestycje marketingowe i dbam o to, aby każda wydana złotówka budowała realną wartość i wynik finansowy firmy.
-Analizuję dane rynkowe - bez zgadywania i gotowych szablonów wskazuję te segmenty i profil klientów, którzy przynoszą Twojemu biznesowi najwyższy zysk.
-Stosuję AI i marketing wizualny - wykorzystuję narzędzia sztucznej inteligencji do wspierania trafnych decyzji biznesowych oraz tworzenia nowoczesnej, przyciągającej oko oprawy graficznej.
-Przekładam megatrendy na sprzedaż - dostrzegam wnioski płynące z otoczenia rynkowego oraz najnowszych megatrendów i uwzględniam je w strategiach marketingowych wspierających skuteczną sprzedaż."
+
   ],
   
   stats: [
