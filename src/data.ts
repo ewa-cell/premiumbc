@@ -455,9 +455,9 @@ export const services: ServiceItem[] = [
 
 export const ABOUT_CONTENT = {
   titleEn: "Private Strategic Growth Advisor",
-  titlePl: "Prywatny Doradca Biznesowy",
+  titlePl: "Strateg marketingowy",
   positionEn: "Senior business advisor bridging strategy, marketing, customer insights, and structured leadership decisions.",
-  positionPl: "Seniorski doradca biznesowy łączący strategię, marketing, wiedzę o klientach i ustrukturyzowane decyzje zarządcze.",
+  positionPl: "Łączy strategię, marketing, wiedzę o klientach i ustrukturyzowane decyzje zarządcze. Przekłada aktywności marketingowe i budżet na realny wzrost",
   
   paragraphsEn: [
     "I combine 20+ years of high-stakes cross-industry consultative experience and real-world business ownership to guide mature founders and business leaders through structural bottlenecks.",
@@ -465,9 +465,11 @@ export const ABOUT_CONTENT = {
     "Having run enterprises myself, I deeply understand the silent friction of founder-dependency, margin dilution, and fragmented operational processes. Together, we analyze your metrics with radical candor and re-architect your business so growth becomes a controlled, predictable, and highly profitable machine."
   ],
   paragraphsPl: [
-    "Łączę ponad 20-letnie doświadczenie doradcze w różnych branżach oraz własną praktykę biznesową, aby przeprowadzać dojrzałych przedsiębiorców przez bariery wzrostu.",
-    "Nie oferuję powierzchownych sztuczek marketingowych, abonamentów na posty w mediach społecznościowych ani haseł motywacyjnych. Moje podejście jest analityczne: ujawniam ukryte zależności między danymi, komunikacją, profilem klienta a decyzjami o alokacji kapitału.",
-    "Znam od podszewki cichy paraliż wynikający z uzależnienia firmy od rąk założyciela, erozję marży i rozproszone operacje. Wspólnie, z pełną rzetelnością, prześwietlamy Twoje wskaźniki i przebudowujemy infrastrukturę tak, aby zyskowny wzrost stał się przewidywalnym, powtarzalnym procesem."
+    "Projektuję marketingowe strategie wzrostu - układam procesy sprzedaży tak, aby marketing przestał być kosztem, a stał się przewidywalną inwestycją zwiększającą zyski.
+Mierzę i optymalizuję rentowność - audytuję inwestycje marketingowe i dbam o to, aby każda wydana złotówka budowała realną wartość i wynik finansowy firmy.
+Analizuję dane rynkowe - bez zgadywania i gotowych szablonów wskazuję te segmenty i profil klientów, którzy przynoszą Twojemu biznesowi najwyższy zysk.
+Stosuję AI i marketing wizualny - wykorzystuję narzędzia sztucznej inteligencji do wspierania trafnych decyzji biznesowych oraz tworzenia nowoczesnej, przyciągającej oko oprawy graficznej.
+Przekładam megatrendy na sprzedaż - dostrzegam wnioski płynące z otoczenia rynkowego oraz najnowszych megatrendów i uwzględniam je w strategiach marketingowych wspierających skuteczną sprzedaż."
   ],
   
   stats: [
