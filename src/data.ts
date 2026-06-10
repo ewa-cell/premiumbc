@@ -19,11 +19,11 @@ export const HERO_CONTENT = {
   subheadlineEn: "Marketing, communication, customer insight and data only create value when they support better decisions and real business results.",
   subheadlinePl: "Marketing, komunikacja, wiedza o kliencie i dane tworzą wartość tylko wtedy, gdy wspierają lepsze decyzje i realne wyniki biznesowe.",
   ctaPrimaryEn: "Let's talk about what is currently limiting your company's growth.",
-  ctaPrimaryPl: "Rozmawiajmy o tym, co obecnie ogranicza wzrost Twojej firmy.",
+  ctaPrimaryPl: "Porozmawiajmy o tym, co obecnie ogranicza wzrost Twojej firmy.",
   ctaSecondaryEn: "LinkedIn Profile",
   ctaSecondaryPl: "Profil LinkedIn",
   brandStatementEn: "Marketing is the starting point. Business results are the goal.",
-  brandStatementPl: "Marketing to punkt wyjścia. Wyniki biznesowe to cel."
+  brandStatementPl: "Marketing to punkt wyjścia. Wyniki biznesowe to cel!"
 };
 
 export const problemCards: ProblemCard[] = [
