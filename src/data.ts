@@ -455,7 +455,7 @@ export const services: ServiceItem[] = [
 
 export const ABOUT_CONTENT = {
   titleEn: "Private Strategic Growth Advisor",
-  titlePl: "Strateg marketingowy",
+  titlePl: "Strateg i doradca marketingowy",
   positionEn: "Senior business advisor bridging strategy, marketing, customer insights, and structured leadership decisions.",
   positionPl: "Łączy strategię, marketing, wiedzę o klientach i ustrukturyzowane decyzje zarządcze. Przekłada aktywności marketingowe i budżet na realny wzrost",
   
