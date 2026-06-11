@@ -46,44 +46,8 @@ export const problemCards: ProblemCard[] = [
     diagnosticMetric: "Does your marketing team report in terms of pageviews or actual customer lifetime value vs acquisition cost?"
   },
   {
-    id: "prioritization-lack",
-    number: "03",
-    titleEn: "Lack of prioritization in business decisions",
-    titlePl: "Brak priorytetyzacji w decyzjach biznesowych",
-    descriptionEn: "Attempting to optimize everything simultaneously dilutes focus and capital. Sustainable scaling requires identifying and lifting the single binding constraint inside your model.",
-    descriptionPl: "Próba jednoczesnej optymalizacji wszystkiego rozprasza kapitał i uwagę. Zrównoważone skalowanie wymaga zidentyfikowania i usunięcia jednego kluczowego wąskiego gardła.",
-    diagnosticMetric: "Are major strategic objectives chosen based on high-impact bottlenecks, or intuitive reactions to daily crises?"
-  },
-  {
-    id: "customer-segments",
-    number: "04",
-    titleEn: "Poor understanding of customer segments",
-    titlePl: "Niewystarczające zrozumienie segmentów klientów",
-    descriptionEn: "Treating all accounts with the same weight drains resources. Growth stems from acquiring segments with high lifetime values, clear expectations, and low cost-to-serve.",
-    descriptionPl: "Traktowanie wszystkich klientów w ten sam sposób marnuje zasoby. Wzrost wynika z pozyskiwania segmentów o wysokiej wartości (LTV), jasnych oczekiwaniach i niskim koszcie obsługi.",
-    diagnosticMetric: "Can you list the exact psychological and data-driven criteria that separate your top 15% clients from the rest?"
-  },
-  {
-    id: "founder-bottleneck",
-    number: "05",
-    titleEn: "Founder becoming a bottleneck in the company",
-    titlePl: "Założyciel stający się wąskim gardłem w firmie",
-    descriptionEn: "When key business operations and deal closures depend purely on the founder's daily presence, the organization cannot scale, and its equity valuation stays capped.",
-    descriptionPl: "Gdy kluczowe operacje, decyzje i pozyskiwanie ofert zależą wyłącznie od obecności założyciela, organizacja nie może rosnąć, a jej wycena rynkowa pozostaje niska.",
-    diagnosticMetric: "Could you step away from your company for 30 days without critical operations stalling or client retention dropping?"
-  },
-  {
-    id: "data-decision-lack",
-    number: "06",
-    titleEn: "Lack of data-driven decision making",
-    titlePl: "Brak podejmowania decyzji w oparciu o dane",
-    descriptionEn: "Relying purely on instinct introduces dangerous blind spots. Without structural data capture and dashboard synthesis, leaders act on lag indicators or incomplete narratives.",
-    descriptionPl: "Poleganie wyłącznie na instynkcie rodzi niebezpieczne martwe punkty. Bez strukturyzowanego gromadzenia danych i syntezy wskaźników, liderzy działają po omacku.",
-    diagnosticMetric: "Are major capital allocations backed by historical unit economics, or by emotional assumptions?"
-  },
-  {
     id: "inconsistent-comms",
-    number: "07",
+    number: "03",
     titleEn: "Inconsistent communication across channels",
     titlePl: "Niespójna komunikacja w różnych kanałach",
     descriptionEn: "Vague positioning and inconsistent messaging confuse prospective clients and erode pricing authority. Market authority demands absolute alignment across physical and digital touchpoints.",
@@ -92,12 +56,48 @@ export const problemCards: ProblemCard[] = [
   },
   {
     id: "automation-lack",
-    number: "08",
+    number: "04",
     titleEn: "No automation or operational structure",
     titlePl: "Brak automatyzacji lub struktury operacyjnej",
     descriptionEn: "Repetitive manual work and unstructured workflows breed human errors and limit scalability. Standardized operating procedures combined with tech triggers unlock growth capacity.",
     descriptionPl: "Ręczna obróbka danych i niespójne przepływy pracy generują błędy oraz uniemożliwiają skalowanie. Przejrzyste procedury i mądra automatyzacja to warunki wzrostu.",
     diagnosticMetric: "What proportion of onboarding, reporting, and fulfillment in your company is still executed manually?"
+  },
+  {
+    id: "prioritization-lack",
+    number: "05",
+    titleEn: "Lack of prioritization in business decisions",
+    titlePl: "Brak priorytetyzacji w decyzjach biznesowych",
+    descriptionEn: "Attempting to optimize everything simultaneously dilutes focus and capital. Sustainable scaling requires identifying and lifting the single binding constraint inside your model.",
+    descriptionPl: "Próba jednoczesnej optymalizacji wszystkiego rozprasza kapitał i uwagę. Zrównoważone skalowanie wymaga zidentyfikowania i usunięcia jednego kluczowego wąskiego gardła.",
+    diagnosticMetric: "Are major strategic objectives chosen based on high-impact bottlenecks, or intuitive reactions to daily crises?"
+  },
+  {
+    id: "customer-segments",
+    number: "06",
+    titleEn: "Poor understanding of customer segments",
+    titlePl: "Niewystarczające zrozumienie segmentów klientów",
+    descriptionEn: "Treating all accounts with the same weight drains resources. Growth stems from acquiring segments with high lifetime values, clear expectations, and low cost-to-serve.",
+    descriptionPl: "Traktowanie wszystkich klientów w ten sam sposób marnuje zasoby. Wzrost wynika z pozyskiwania segmentów o wysokiej wartości (LTV), jasnych oczekiwaniach i niskim koszcie obsługi.",
+    diagnosticMetric: "Can you list the exact psychological and data-driven criteria that separate your top 15% clients from the rest?"
+  },
+  {
+    id: "founder-bottleneck",
+    number: "07",
+    titleEn: "Founder becoming a bottleneck in the company",
+    titlePl: "Założyciel stający się wąskim gardłem w firmie",
+    descriptionEn: "When key business operations and deal closures depend purely on the founder's daily presence, the organization cannot scale, and its equity valuation stays capped.",
+    descriptionPl: "Gdy kluczowe operacje, decyzje i pozyskiwanie ofert zależą wyłącznie od obecności założyciela, organizacja nie może rosnąć, a jej wycena rynkowa pozostaje niska.",
+    diagnosticMetric: "Could you step away from your company for 30 days without critical operations stalling or client retention dropping?"
+  },
+  {
+    id: "data-decision-lack",
+    number: "08",
+    titleEn: "Lack of data-driven decision making",
+    titlePl: "Brak podejmowania decyzji w oparciu o dane",
+    descriptionEn: "Relying purely on instinct introduces dangerous blind spots. Without structural data capture and dashboard synthesis, leaders act on lag indicators or incomplete narratives.",
+    descriptionPl: "Poleganie wyłącznie na instynkcie rodzi niebezpieczne martwe punkty. Bez strukturyzowanego gromadzenia danych i syntezy wskaźników, liderzy działają po omacku.",
+    diagnosticMetric: "Are major capital allocations backed by historical unit economics, or by emotional assumptions?"
   }
 ];
 
