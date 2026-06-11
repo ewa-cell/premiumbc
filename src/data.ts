@@ -465,9 +465,8 @@ export const ABOUT_CONTENT = {
     "Having run enterprises myself, I deeply understand the silent friction of founder-dependency, margin dilution, and fragmented operational processes. Together, we analyze your metrics with radical candor and re-architect your business so growth becomes a controlled, predictable, and highly profitable machine."
   ],
   paragraphsPl: [
-    "Projektuję marketingowe strategie wzrostu - układam procesy sprzedaży tak, aby marketing przestał być kosztem, a stał się przewidywalną inwestycją zwiększającą zyski.
-Mierzę i optymalizuję rentowność - audytuję inwestycje marketingowe i dbam o to, aby każda wydana złotówka budowała realną wartość i wynik finansowy firmy.
-
+    "Projektuję marketingowe strategie wzrostu - układam procesy sprzedaży tak, aby marketing przestał być kosztem, a stał się przewidywalną inwestycją zwiększającą zyski.",
+    "Mierzę i optymalizuję rentowność - audytuję inwestycje marketingowe i dbam o to, aby każda wydana złotówka budowała realną wartość i wynik finansowy firmy."
   ],
   
   stats: [
