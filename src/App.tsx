@@ -757,9 +757,6 @@ function AppContent() {
                   <div className="flex justify-between items-end">
                     <div>
                       <h4 className="font-sans text-[16px] font-semibold leading-none">Ewa Pysiewicz</h4>
-                      <p className="text-[10px] text-brand-cream/65 font-sans font-medium mt-1">
-                        {language === 'pl' ? 'Prywatny Doradca Biznesowy' : 'Private Strategic Advisor'}
-                      </p>
                     </div>
                     <span className="text-xs font-sans text-brand-gold font-bold">NDA Secured</span>
                   </div>
