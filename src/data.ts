@@ -82,22 +82,22 @@ export const problemCards: ProblemCard[] = [
     diagnosticMetric: "Are major capital allocations backed by historical unit economics, or by emotional assumptions?"
   },
   {
-    id: "automation-lack",
-    number: "07",
-    titleEn: "No automation or operational structure",
-    titlePl: "Brak automatyzacji lub struktury operacyjnej",
-    descriptionEn: "Repetitive manual work and unstructured workflows breed human errors and limit scalability. Standardized operating procedures combined with tech triggers unlock growth capacity.",
-    descriptionPl: "Ręczna obróbka danych i niespójne przepływy pracy generują błędy oraz uniemożliwiają skalowanie. Przejrzyste procedury i mądra automatyzacja to warunki wzrostu.",
-    diagnosticMetric: "What proportion of onboarding, reporting, and fulfillment in your company is still executed manually?"
-  },
-  {
     id: "inconsistent-comms",
-    number: "08",
+    number: "07",
     titleEn: "Inconsistent communication across channels",
     titlePl: "Niespójna komunikacja w różnych kanałach",
     descriptionEn: "Vague positioning and inconsistent messaging confuse prospective clients and erode pricing authority. Market authority demands absolute alignment across physical and digital touchpoints.",
     descriptionPl: "Niejasna komunikacja i niespójne komunikaty dezorientują rynek i niszczą siłę cenową. Budowanie autorytetu wymaga spójności przekazu we wszystkich punktach styku.",
     diagnosticMetric: "Will a stranger see the exact same value proposition on your LinkedIn, sales pitch deck, and website?"
+  },
+  {
+    id: "automation-lack",
+    number: "08",
+    titleEn: "No automation or operational structure",
+    titlePl: "Brak automatyzacji lub struktury operacyjnej",
+    descriptionEn: "Repetitive manual work and unstructured workflows breed human errors and limit scalability. Standardized operating procedures combined with tech triggers unlock growth capacity.",
+    descriptionPl: "Ręczna obróbka danych i niespójne przepływy pracy generują błędy oraz uniemożliwiają skalowanie. Przejrzyste procedury i mądra automatyzacja to warunki wzrostu.",
+    diagnosticMetric: "What proportion of onboarding, reporting, and fulfillment in your company is still executed manually?"
   }
 ];
 
