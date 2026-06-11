@@ -31,9 +31,9 @@ export const problemCards: ProblemCard[] = [
     id: "unclear-profit",
     number: "01",
     titleEn: "Unclear which services actually generate profit",
-    titlePl: "Niejasność, które usługi rzeczywiście generują zysk",
+    titlePl: "Brak strategii marketingowej",
     descriptionEn: "Increasing revenue often masks declining product/service contribution margins. Without precise tracking of cost-to-serve, you might be scaling unprofitable lines of business.",
-    descriptionPl: "Wzrost przychodów często maskuje spadające marże. Bez precyzyjnego śledzenia kosztów obsługi (cost-to-serve), możesz nieświadomie skalować nierentowne obszary.",
+    descriptionPl: "Działanie bez określonego celu, z dużą przypadkowością, punktowo, bez KPI, mierzenia efektów i wyciągania wniosków",
     diagnosticMetric: "Do you calculate the net margin of every product/service after fully loading operational overhead?"
   },
   {
