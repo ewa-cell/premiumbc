@@ -292,6 +292,11 @@ function AppContent() {
 
         <div className="max-w-7xl mx-auto px-6 md:px-12 w-full space-y-12 relative">
           
+          {/* Wide decorative graphic */}
+          <div className="w-full animate-fade-in-up">
+            <img src="/src/assets/images/grafika-www.png" alt="" className="w-full object-contain" />
+          </div>
+
           {/* Subtle brand statement as pre-headline */}
           <div className="flex items-center gap-3 animate-fade-in-up">
             <span className="inline-block w-8 h-px bg-brand-gold" />
