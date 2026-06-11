@@ -777,7 +777,7 @@ function AppContent() {
               
               <div>
                 <span className="text-xs font-sans font-semibold uppercase tracking-wide text-brand-gold block mb-2">
-                  {language === 'pl' ? 'Biogram zawodowy' : 'Profile & Mandate'}
+                  {language === 'pl' ? '' : 'Profile & Mandate'}
                 </span>
                 <h2 className="font-editorial text-2.5xl md:text-3.5xl font-light text-brand-navy leading-tight tracking-tight">
                   {language === 'pl' ? ABOUT_CONTENT.titlePl : ABOUT_CONTENT.titleEn}

@@ -457,7 +457,7 @@ export const ABOUT_CONTENT = {
   titleEn: "Private Strategic Growth Advisor",
   titlePl: "Strateg i doradca marketingowy",
   positionEn: "Senior business advisor bridging strategy, marketing, customer insights, and structured leadership decisions.",
-  positionPl: "Łączy strategię, marketing, wiedzę o klientach i ustrukturyzowane decyzje zarządcze. Przekłada aktywności marketingowe i budżet na realny wzrost",
+  positionPl: "Dostrzegam i rozumiem zależności między strategią, projektem a efektem. Pozwala mi to skutecznie przekładać komunikację na sprzedaż i wzrost.",
   
   paragraphsEn: [
     "I combine 20+ years of high-stakes cross-industry consultative experience and real-world business ownership to guide mature founders and business leaders through structural bottlenecks.",
@@ -465,9 +465,11 @@ export const ABOUT_CONTENT = {
     "Having run enterprises myself, I deeply understand the silent friction of founder-dependency, margin dilution, and fragmented operational processes. Together, we analyze your metrics with radical candor and re-architect your business so growth becomes a controlled, predictable, and highly profitable machine."
   ],
   paragraphsPl: [
-    "Łączę strategię, marketing, wiedzę o klientach i ustrukturyzowane decyzje zarządcze.",
     "Projektuję marketingowe strategie wzrostu - układam procesy sprzedaży tak, aby marketing przestał być kosztem, a stał się przewidywalną inwestycją zwiększającą zyski.",
-    "Mierzę i optymalizuję rentowność - audytuję inwestycje marketingowe i dbam o to, aby każda wydana złotówka budowała realną wartość i wynik finansowy firmy."
+    "Mierzę i optymalizuję rentowność - audytuję inwestycje marketingowe i dbam o to, aby każda wydana złotówka budowała realną wartość i wynik finansowy firmy.",
+    "Analizuję dane rynkowe - bez zgadywania i gotowych szablonów wskazuję te segmenty i profil klientów, którzy przynoszą Twojemu biznesowi najwyższy zysk.",
+    "Stosuję AI i marketing wizualny - wykorzystuję narzędzia sztucznej inteligencji do wspierania trafnych decyzji biznesowych oraz tworzenia nowoczesnej, przyciągającej oko oprawy graficznej.",
+    "Przekładam megatrendy na sprzedaż - dostrzegam wnioski płynące z otoczenia rynkowego oraz najnowszych megatrendów i uwzględniam je w strategiach marketingowych wspierających skuteczną sprzedaż."
   ],
   
   stats: [
