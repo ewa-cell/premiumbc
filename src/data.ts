@@ -15,7 +15,7 @@ import {
 
 export const HERO_CONTENT = {
   headlineEn: "I help business owners identify the relationships that influence growth and profitability.",
-  headlinePl: "Pomagam właścicielom firm identyfikować zależności, które wpływają na wzrost i rentowność.",
+  headlinePl: "Skuteczny marketing nie zaczyna się od kampanii.\nZaczyna się od zrozumienia biznesu.",
   subheadlineEn: "Marketing, communication, customer insight and data only create value when they support better decisions and real business results.",
   subheadlinePl: "Marketing, komunikacja, wiedza o kliencie i dane tworzą wartość tylko wtedy, gdy wspierają lepsze decyzje i realne wyniki biznesowe.",
   ctaPrimaryEn: "Let's talk about what is currently limiting your company's growth.",
