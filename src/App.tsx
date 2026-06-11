@@ -361,7 +361,7 @@ function AppContent() {
               </div>
               <p className="text-sm font-sans font-medium text-brand-navy/55 max-w-xl leading-relaxed">
                 {language === 'pl' 
-                  ? 'Identyfikacja punktów tarcia decyduje o sukcesie. Poniższe błędy najczęściej blokują rentowność organizacji.'
+                  ? 'Czego potrzebuje marketing Twojej firmy? Którym obszarom warto się przyjrzeć i co w nich diagnozować, zmieniać i mierzyć?'
                   : 'Recognizing friction points determines future survival. The issues below represent the most recurring profitability blocks.'}
               </p>
             </div>
