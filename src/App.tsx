@@ -104,22 +104,22 @@ function AppContent() {
 
           {/* Navigation Links (Desktop) */}
           <nav className="hidden lg:flex items-center gap-6 xl:gap-8 text-xs font-sans font-semibold uppercase tracking-wider whitespace-nowrap min-w-0 justify-center">
-            <a href="#problems-section" className="px-5 py-2.5 bg-brand-navy text-brand-cream-light hover:bg-brand-gold hover:text-brand-navy rounded-md shadow-sm transition-all duration-300 whitespace-nowrap">
+            <a href="#problems-section" className="px-5 py-2.5 bg-brand-cream text-brand-navy hover:bg-brand-gold hover:text-brand-navy rounded-md shadow-sm transition-all duration-300 whitespace-nowrap">
               {language === 'pl' ? 'Problemy' : 'Constraints'}
             </a>
-            <a href="#timeline-section" className="px-5 py-2.5 bg-brand-navy text-brand-cream-light hover:bg-brand-gold hover:text-brand-navy rounded-md shadow-sm transition-all duration-300 whitespace-nowrap">
+            <a href="#timeline-section" className="px-5 py-2.5 bg-brand-cream text-brand-navy hover:bg-brand-gold hover:text-brand-navy rounded-md shadow-sm transition-all duration-300 whitespace-nowrap">
               {language === 'pl' ? 'Współpraca' : 'Process'}
             </a>
-            <a href="#fit-section" className="px-5 py-2.5 bg-brand-navy text-brand-cream-light hover:bg-brand-gold hover:text-brand-navy rounded-md shadow-sm transition-all duration-300 whitespace-nowrap">
+            <a href="#fit-section" className="px-5 py-2.5 bg-brand-cream text-brand-navy hover:bg-brand-gold hover:text-brand-navy rounded-md shadow-sm transition-all duration-300 whitespace-nowrap">
               {language === 'pl' ? 'Profil Klienta' : 'Client Fit'}
             </a>
-            <a href="#services-section" className="px-5 py-2.5 bg-brand-navy text-brand-cream-light hover:bg-brand-gold hover:text-brand-navy rounded-md shadow-sm transition-all duration-300 whitespace-nowrap">
+            <a href="#services-section" className="px-5 py-2.5 bg-brand-cream text-brand-navy hover:bg-brand-gold hover:text-brand-navy rounded-md shadow-sm transition-all duration-300 whitespace-nowrap">
               {language === 'pl' ? 'Oferta' : 'Services'}
             </a>
-            <a href="#about-section" className="px-5 py-2.5 bg-brand-navy text-brand-cream-light hover:bg-brand-gold hover:text-brand-navy rounded-md shadow-sm transition-all duration-300 whitespace-nowrap">
+            <a href="#about-section" className="px-5 py-2.5 bg-brand-cream text-brand-navy hover:bg-brand-gold hover:text-brand-navy rounded-md shadow-sm transition-all duration-300 whitespace-nowrap">
               {language === 'pl' ? 'O mnie' : 'About'}
             </a>
-            <a href="#contact-section" className="px-5 py-2.5 bg-brand-navy text-brand-cream-light hover:bg-brand-gold hover:text-brand-navy rounded-md shadow-sm transition-all duration-300 whitespace-nowrap">
+            <a href="#contact-section" className="px-5 py-2.5 bg-brand-cream text-brand-navy hover:bg-brand-gold hover:text-brand-navy rounded-md shadow-sm transition-all duration-300 whitespace-nowrap">
               {language === 'pl' ? 'Kontakt' : 'Contact'}
             </a>
           </nav>
