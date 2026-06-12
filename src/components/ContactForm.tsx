@@ -76,7 +76,7 @@ export default function ContactForm() {
           >
             <div>
               <span className="text-xs font-sans font-medium tracking-wider text-brand-gold uppercase block mb-2">
-                {language === 'pl' ? 'OPISZ POTRZEBY, TWOJEJ FIRMY' : 'Selective Advisor Intake'}
+                {language === 'pl' ? 'OPISZ POTRZEBY TWOJEJ FIRMY' : 'Selective Advisor Intake'}
               </span>
               <h3 className="font-editorial text-3xl font-light text-white leading-tight">
                 {language === 'pl' ? 'Jakiej zmiany potrzebuje Twój marketing' : 'Initiate Brief Diagnosis'}
