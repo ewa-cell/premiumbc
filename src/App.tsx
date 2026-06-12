@@ -358,7 +358,7 @@ function AppContent() {
             <div className="max-w-2xl space-y-4">
               <div>
                 <span className="text-xs font-sans font-semibold uppercase tracking-wide text-brand-gold block mb-2">
-                  {language === 'pl' ? 'Zdiagnozuj wąskie gardła' : 'Operational Audit'}
+                  {language === 'pl' ? 'W czym mogę Ci pomóc?' : 'Operational Audit'}
                 </span>
                 <h2 className="font-editorial text-2.5xl md:text-3.5xl font-light text-brand-navy leading-tight">
                   {language === 'pl' ? 'Co może ograniczać wzrost Twojej firmy?' : 'What might be limiting your business growth?'}
