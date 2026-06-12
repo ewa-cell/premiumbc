@@ -76,14 +76,14 @@ export default function ContactForm() {
           >
             <div>
               <span className="text-xs font-sans font-medium tracking-wider text-brand-gold uppercase block mb-2">
-                {language === 'pl' ? 'Selektywna rekrutacja klientów' : 'Selective Advisor Intake'}
+                {language === 'pl' ? 'Opisz potrzeby Twojej firmy' : 'Selective Advisor Intake'}
               </span>
               <h3 className="font-editorial text-3xl font-light text-white leading-tight">
-                {language === 'pl' ? 'Inicjacja analizy operacyjnej' : 'Initiate Brief Diagnosis'}
+                {language === 'pl' ? 'Jakiej zmiany potrzebuje Twój marketing?' : 'Initiate Brief Diagnosis'}
               </h3>
               <p className="text-xs font-sans font-light text-brand-cream/60 mt-1 max-w-xl">
-                {language === 'pl' 
-                  ? 'Ewa osobiście ocenia zgłoszenia przedsiębiorców. Proszę wypełnić poniższe pola biznesowe, aby dopasować parametry spotkania.'
+                {language === 'pl'
+                  ? 'Wypełnij poniższe pola, aby jak najefektywniej zaplanować spotkanie.'
                   : 'Ewa personally reviews prospective engagements. Please specify your organizational metrics below to qualify our strategy call.'}
               </p>
             </div>
