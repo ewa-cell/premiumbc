@@ -428,7 +428,7 @@ function AppContent() {
             </h2>
             <p className="text-sm font-sans font-light text-brand-navy/60 max-w-xl mt-1">
               {language === 'pl' 
-                ? 'Przechodzimy przez rygorystyczny 5-etapowy proces, eliminując szum i skupiając siły operacyjne wyłącznie na dźwigniach marży.'
+                ? 'Od pierwszej rozmowy do pożądanego efektu. Jak wyglądają etapy współpracy:'
                 : 'We proceed via a highly structured 5-stage advisory blueprint, eliminating coordination fluff and optimizing your core levers.'}
             </p>
           </div>
